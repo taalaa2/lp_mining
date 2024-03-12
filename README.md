@@ -1,2 +1,2 @@
 # lp_mining
-Version
+Version check
